@@ -1,0 +1,12 @@
+Name: peg-ml
+Version: 0.0.1
+Date: 2017-05-27
+Author: Giuseppe Nebbione
+Maintainer: Giuseppe Nebbione <nebbia@openmailbox.org>
+Title: Performance Evaluation Group Machine Learning Library.
+Description: Machine Learning Utilities.
+Categories: Machine Learning
+Depends: octave (>= 3.6.0)
+Autoload: no
+License: GPLv3+, public domain
+Url: http://github.com/gnebbia/peg-ml

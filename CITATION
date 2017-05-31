@@ -1,0 +1,7 @@
+@software{peg-ml,
+   author = {Giuseppe Nebbione},
+   title = {Performance Evaluation Group Machine Learning Library for GNU Octave},
+   url = {http://octave.sourceforge.net/splines},
+   version = {0.0.1},
+   date = {2017-05-27},
+ }

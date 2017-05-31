@@ -1,0 +1,10 @@
+analysis >> Data analysis
+Machine Learning functions
+ createPolyFeatures
+ fmincg
+ featureNormalize
+ learningCurve
+ linearRegCost
+ logisticRegCost
+ sigmoid
+ trainLinearReg
